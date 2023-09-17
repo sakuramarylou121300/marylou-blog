@@ -1,16 +1,46 @@
 {
-    "blogs":[
-        {
-            "title" : "My First Blog",
-            "body" : "Why do we use it? \n It is a long established fact that a reader will be distracted.",
-            "author" : "Mary Lou",
-            "id" : 1
-        },
-        {
-            "title" : "Opening Party!",
-            "body" : "Why do we use it? \n It is a long established fact that a reader will be distracter.",
-            "author": "Yoshi",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it? \n It is a long established fact that a reader will be distracted.",
+      "author": "Mary Lou",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it? \n It is a long established fact that a reader will be distracter.",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "My first Post",
+      "body": "Hello, this is my first post",
+      "author": "lou",
+      "id": 3
+    },
+    {
+      "title": "Hey",
+      "body": "It's me again",
+      "author": "lou",
+      "id": 5
+    },
+    {
+      "title": "Final",
+      "body": "this is my final add",
+      "author": "lou",
+      "id": 8
+    },
+    {
+      "title": "Hi",
+      "body": "I am Mary Lou",
+      "author": "lou",
+      "id": 9
+    },
+    {
+      "title": "This is new",
+      "body": "I am new to this",
+      "author": "lou",
+      "id": 10
+    }
+  ]
 }
